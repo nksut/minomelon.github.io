@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	padding:0;
+	margin:0;
+}
+.photo{
+	width:100%;
+	height:500px;
+	overlow: hidden;
+	position: relative;
+}
+.word{
+	postition:absoluate;
+	top:0;
+	left:0;
+}
